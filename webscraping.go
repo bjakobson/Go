@@ -21,3 +21,4 @@ func main() {
  GO
  GO
  GO
+ Go
